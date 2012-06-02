@@ -1,0 +1,18 @@
+{
+  "author": "Hiroaki Nakamura <hnakamur@gmail.com>",
+  "name": "isolocaldateformat",
+  "description": "Format local Date in ISO 8601 'yyyy-mm-ddTHH:MM:SS.fff' for Node.js.",
+  "version": "1.0.0",
+  "main": "lib/isolocaldateformat",
+  "license": "MIT",
+  "homepage": "http://github.com/hnakamur/node-isolocaldateformat",
+  "scripts": {
+    "test": "nodeunit test/test-isolocaldateformat.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
